@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './call-em-all1.png';
+import logo from './text-em-all.png';
 import './App.css';
 
 function App() {
